@@ -20,7 +20,7 @@ export default class Game extends React.Component{
 
 
 
-    render() {c
+    render() {
         const result = this.somef()
         return(
         <div className="game">
